@@ -74,7 +74,7 @@ docker compose ls
 
 </div>
 
-![Скриншот DrawDB](img/6e8e0fc8-ff0-4bc5-9aa6-0fec7b43bbf5.png)
+![Скриншот DrawDB](6e8e0fc8-fff0-4bc5-9aa6-0fec7b43bbf5.png)
 
 ---
 
